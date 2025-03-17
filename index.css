@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin: 50px;
+}
+input,button{
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+}
+button{
+    cursor: pointer;
+}
